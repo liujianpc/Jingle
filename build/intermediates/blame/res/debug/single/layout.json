@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\EclipseWorkSpace\\SMSapp\\build\\intermediates\\res\\merged\\debug\\layout\\sms_item.xml",
+        "source": "E:\\EclipseWorkSpace\\SMSapp\\res\\layout\\sms_item.xml"
+    },
+    {
+        "merged": "E:\\EclipseWorkSpace\\SMSapp\\build\\intermediates\\res\\merged\\debug\\layout\\sms_list_view.xml",
+        "source": "E:\\EclipseWorkSpace\\SMSapp\\res\\layout\\sms_list_view.xml"
+    },
+    {
+        "merged": "E:\\EclipseWorkSpace\\SMSapp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\EclipseWorkSpace\\SMSapp\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\EclipseWorkSpace\\SMSapp\\build\\intermediates\\res\\merged\\debug\\layout\\message_item.xml",
+        "source": "E:\\EclipseWorkSpace\\SMSapp\\res\\layout\\message_item.xml"
+    },
+    {
+        "merged": "E:\\EclipseWorkSpace\\SMSapp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sms.xml",
+        "source": "E:\\EclipseWorkSpace\\SMSapp\\res\\layout\\activity_sms.xml"
+    }
+]

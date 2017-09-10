@@ -1,0 +1,112 @@
+[
+    {
+        "outputFile": "E:\\EclipseWorkSpace\\SMSapp\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "E:\\EclipseWorkSpace\\SMSapp\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "E:\\EclipseWorkSpace\\SMSapp\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "E:\\EclipseWorkSpace\\SMSapp\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 41,
+                    "endOffset": 259
+                },
+                "from": {
+                    "file": "E:\\EclipseWorkSpace\\SMSapp\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 41,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 264,
+                    "endColumn": 52,
+                    "endOffset": 312
+                },
+                "from": {
+                    "file": "E:\\EclipseWorkSpace\\SMSapp\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 317,
+                    "endColumn": 58,
+                    "endOffset": 371
+                },
+                "from": {
+                    "file": "E:\\EclipseWorkSpace\\SMSapp\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 376,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 454
+                },
+                "from": {
+                    "file": "E:\\EclipseWorkSpace\\SMSapp\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 459,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 526
+                },
+                "from": {
+                    "file": "E:\\EclipseWorkSpace\\SMSapp\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]
