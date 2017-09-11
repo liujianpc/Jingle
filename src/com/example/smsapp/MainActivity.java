@@ -4,6 +4,7 @@ import android.database.Cursor;
 import android.net.Uri;
 import android.os.Bundle;
 import android.provider.ContactsContract;
+import android.support.v7.app.ActionBar;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -20,11 +21,13 @@ import java.util.List;
 public class MainActivity extends BaseActivity {
     private List<SmsItem> smsList = new ArrayList<SmsItem>();
     MySmsAdapter smsAdapter;
+    ActionBar actionBar;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        setActionBar();
         smsAdapter = new MySmsAdapter(MainActivity.this,
                 R.layout.sms_item, smsList);
         ListView smsListView = (ListView) findViewById(R.id.sms_list_view);
@@ -48,22 +51,22 @@ public class MainActivity extends BaseActivity {
 
 
     @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.main, menu);
-        return true;
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+            case android.R.id.home:
+                ToastUtil.showToast(MainActivity.this, "退出");
+                onBackPressed();
+                break;
+
+        }
+        return super.onOptionsItemSelected(item);
     }
 
     @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-        // Handle action bar item clicks here. The action bar will
-        // automatically handle clicks on the Home/Up button, so long
-        // as you specify a parent activity in AndroidManifest.xml.
-        int id = item.getItemId();
-        if (id == R.id.action_settings) {
-            return true;
-        }
-        return super.onOptionsItemSelected(item);
+    public boolean onCreateOptionsMenu(Menu menu) {
+        /*MenuInflater inflater = getMenuInflater();
+        inflater.inflate(R.menu.actionbar,menu);*/
+        return super.onCreateOptionsMenu(menu);
     }
 
     public void getSms() {
@@ -180,6 +183,19 @@ public class MainActivity extends BaseActivity {
         }
         return name;
 
+    }
+
+    private void setActionBar() {
+        actionBar = getSupportActionBar();
+        //显示返回箭头默认是不显示的
+        if (actionBar != null) {
+            actionBar.setDisplayHomeAsUpEnabled(true);//显示左侧的返回箭头，并且返回箭头和title一直设置返回箭头才能显示
+            actionBar.setDisplayShowHomeEnabled(true);
+            actionBar.setDisplayUseLogoEnabled(true);
+            //显示标题
+            actionBar.setDisplayShowTitleEnabled(true);
+            //actionbar.setTitle(getString(R.string.app_name));
+        }
     }
 
 }

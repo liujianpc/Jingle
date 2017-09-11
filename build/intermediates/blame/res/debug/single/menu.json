@@ -1,10 +1,10 @@
 [
     {
-        "merged": "E:\\EclipseWorkSpace\\SMSapp\\build\\intermediates\\res\\merged\\debug\\menu\\sms.xml",
-        "source": "E:\\EclipseWorkSpace\\SMSapp\\res\\menu\\sms.xml"
+        "merged": "E:\\EclipseWorkSpace\\JingleSMS\\build\\intermediates\\res\\merged\\debug\\menu\\sms.xml",
+        "source": "E:\\EclipseWorkSpace\\JingleSMS\\res\\menu\\sms.xml"
     },
     {
-        "merged": "E:\\EclipseWorkSpace\\SMSapp\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "E:\\EclipseWorkSpace\\SMSapp\\res\\menu\\main.xml"
+        "merged": "E:\\EclipseWorkSpace\\JingleSMS\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\EclipseWorkSpace\\JingleSMS\\res\\menu\\main.xml"
     }
 ]

@@ -1,14 +1,18 @@
 [
     {
-        "merged": "E:\\EclipseWorkSpace\\SMSapp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
-        "source": "E:\\EclipseWorkSpace\\SMSapp\\res\\drawable-hdpi\\ic_launcher.png"
+        "merged": "E:\\EclipseWorkSpace\\JingleSMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\EclipseWorkSpace\\JingleSMS\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "E:\\EclipseWorkSpace\\SMSapp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\message_left.9.png",
-        "source": "E:\\EclipseWorkSpace\\SMSapp\\res\\drawable-hdpi\\message_left.9.png"
+        "merged": "E:\\EclipseWorkSpace\\JingleSMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\message_left.9.png",
+        "source": "E:\\EclipseWorkSpace\\JingleSMS\\res\\drawable-hdpi\\message_left.9.png"
     },
     {
-        "merged": "E:\\EclipseWorkSpace\\SMSapp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\message_right.9.png",
-        "source": "E:\\EclipseWorkSpace\\SMSapp\\res\\drawable-hdpi\\message_right.9.png"
+        "merged": "E:\\EclipseWorkSpace\\JingleSMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\send.png",
+        "source": "E:\\EclipseWorkSpace\\JingleSMS\\res\\drawable-hdpi\\send.png"
+    },
+    {
+        "merged": "E:\\EclipseWorkSpace\\JingleSMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\message_right.9.png",
+        "source": "E:\\EclipseWorkSpace\\JingleSMS\\res\\drawable-hdpi\\message_right.9.png"
     }
 ]

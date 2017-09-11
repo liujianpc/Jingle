@@ -1,10 +1,10 @@
 [
     {
-        "merged": "E:\\EclipseWorkSpace\\SMSapp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\avatar.png",
-        "source": "E:\\EclipseWorkSpace\\SMSapp\\res\\drawable-mdpi\\avatar.png"
+        "merged": "E:\\EclipseWorkSpace\\JingleSMS\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\avatar.png",
+        "source": "E:\\EclipseWorkSpace\\JingleSMS\\res\\drawable-mdpi\\avatar.png"
     },
     {
-        "merged": "E:\\EclipseWorkSpace\\SMSapp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
-        "source": "E:\\EclipseWorkSpace\\SMSapp\\res\\drawable-mdpi\\ic_launcher.png"
+        "merged": "E:\\EclipseWorkSpace\\JingleSMS\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "E:\\EclipseWorkSpace\\JingleSMS\\res\\drawable-mdpi\\ic_launcher.png"
     }
 ]

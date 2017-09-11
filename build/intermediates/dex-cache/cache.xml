@@ -3,12 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="E:\EclipseWorkSpace\SMSapp\libs\android-support-v4.jar"
+        jar="E:\EclipseWorkSpace\JingleSMS\libs\android-support-v4.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="1dc1f63cee098b27db60b9a2833fd7ca58f89636">
-        <dex dex="E:\EclipseWorkSpace\SMSapp\build\intermediates\pre-dexed\debug\android-support-v4_d9828f3bd15fe526b60baa91683531484f26b44d.jar" />
+        <dex dex="E:\EclipseWorkSpace\JingleSMS\build\intermediates\pre-dexed\debug\android-support-v4_f2f8d3be8e970fb27d623c4426322a5119909787.jar" />
     </item>
 
 </items>
